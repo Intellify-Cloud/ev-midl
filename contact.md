@@ -1,6 +1,6 @@
 ---
 layout: page
-title: evo Sue-ann Weber
+title: evo The Midlands
 background: grey
 ---
 <div class="col-lg-12 text-center">
