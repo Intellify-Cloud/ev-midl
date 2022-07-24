@@ -24,7 +24,7 @@ logo:
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
-group: evo Group
+group: evo Home Loans
 
 company: evo YOUR BRANCH NAME
 
