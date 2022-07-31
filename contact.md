@@ -19,10 +19,10 @@ background: grey
     </div>
 
     <div class="col-md">
-		<p>ROAD-NUMBER ROAD-NAME</p>
-		<p>SUBURB-NAME</p>
-		<p>CITY-NAME</p>
-		<p>POSTAL-CODE</p>
+		<p>​Unit 4</p>
+		<p>44 Main Street</p>
+		<p>Howick</p>
+		<p>Kwa-Zulu Natal</p>
     </div>
     
   </div>

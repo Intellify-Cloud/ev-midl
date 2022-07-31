@@ -1,8 +1,8 @@
 baseurl: ""
 
-title      : evo The Midlands - Bond Origination & Home Loan Experts in xxxSuburb, xxxCity, xxxProvince
+title      : evo The Midlands - Bond Origination & Home Loan Experts in Howick | KZN Midlands
 email      : sueann.weber@evogroup.co.za
-description: Contact evo Midlands from SUBURB-NAME, CITY-NAME to help you with home loan. I have 23 years banking experience of which 10 years are home loans experience. I also have 8 years of bond origination experience. 
+description: Contact evo Midlands from Howick, in the KwaZulu-Natal Midlands to help you with home loan. With banking and homeloan experience I am here to help you with your bond origination. 
 author     : Eben Roux / Pieter Oosthuizen
 
 analytics:
@@ -26,8 +26,8 @@ exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
 group: evo Home Loans
 
-company: evo YOUR BRANCH NAME
+company: evo Midlands
 
 url: www.evomidlands.co.za
 
-address: NO. ROAD-NAME, SUBURB-NAME, TOWN-NAME, Kwa-Zulu Natal
+address: ​Unit 4, 44 Main Street, Howick, Kwa-Zulu Natal
