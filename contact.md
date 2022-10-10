@@ -13,9 +13,9 @@ background: grey
   <div class="row">
 
   <div class="col-md">
-		<!-- <p>Tel: <a href="tel:+27210232228"> 079 485 5355</a></p> -->
-		<p>Cell: <a href="tel:+27732275895">073 227 5895</a></p>
-		<p>E-mail: <a href="mailto:sueann.weber@evogroup.co.za?subject=Mail from our Website">sueann.weber@evogroup.co.za</a></p>
+		<!-- <p>Tel: <a href="tel:+27000000000">000 000 0000</a></p> -->
+		<!-- <p>Cell: <a href="tel:+27000000000">000 000 0000</a></p> -->
+		<!-- <p>E-mail: <a href="mailto:xxx.xxx@evogroup.co.za?subject=Mail from our Website">xxx.xxx@evogroup.co.za</a></p> -->
     </div>
 
     <div class="col-md">
