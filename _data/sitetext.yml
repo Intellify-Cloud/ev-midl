@@ -1,193 +1,181 @@
 header:
-    title: 
-    text: NEED A HOME LOAN?
+  title:
+  text: NEED A HOME LOAN?
 
-    branches:
-      - name: Name Suburbs
-        link: "/"
-
+  branches:
+    - name: Name Suburbs
+      link: "/"
 
 services:
-    title: "Services We Offer"
-    text: "We get you the most competitive rate by sourcing quotes from the banks for you to compare."
-    section: services
-    list:
-      - title: "Bond Origination"
-        desc: "We will submit your Home Loan Applications to up to seven banks, negotiating the best interest rates and deal in the market at any given time."
-        icon: fas fa-home
-        link: 
-          # url: mailto:?subject=Email from evo The Midlands website
-          # text: "Email Us"
-      - title: "Pre-qualification"
-        desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
-        icon: fas fa-tasks       
-        link:
-          url: 
-          text: ""
-      - title: "Still Looking for a Home?"
-        desc: "I am still searching for property using property portals, newspapers and visiting show houses but would like to ask a few questions."
-        icon: fas fa-search
-        link: 
-        #   url: mailto:email@evogroup.co.za?subject=Email from evo The Midlands website
-        #   text: "Email Us"
+  title: "Services We Offer"
+  text: "We get you the most competitive rate by sourcing quotes from the banks for you to compare."
+  section: services
+  list:
+    - title: "Bond Origination"
+      desc: "We will submit your Home Loan Applications to up to seven banks, negotiating the best interest rates and deal in the market at any given time."
+      icon: fas fa-home
+      link:
+        # url: mailto:?subject=Email from evo The Midlands website
+        # text: "Email Us"
+    - title: "Pre-qualification"
+      desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
+      icon: fas fa-tasks
+      link:
+        url: +27330010327
+        text: " Call: 033 001 0327"
+    - title: "Still Looking for a Home?"
+      desc: "I am still searching for property using property portals, newspapers and visiting show houses but would like to ask a few questions."
+      icon: fas fa-search
+      link:
+      #   url: mailto:email@evogroup.co.za?subject=Email from evo The Midlands website
+      #   text: "Email Us"
 
 articles:
-    title: "Articles"
-    text: "Here is a list of our articles that can help inform you about news in homeloans, interest rates and the South African property market."
-    section: articles
+  title: "Articles"
+  text: "Here is a list of our articles that can help inform you about news in homeloans, interest rates and the South African property market."
+  section: articles
 
 calculators:
-    title: "Home Loan Calculators"
-    text: "Use our Home loan Calculators to work out the size of home loan you are likely to qualify for and what your bond repayments will be."
-    section: calculators
-    list:
-      - title: "Bond Calculator"
-        desc: "Calculate the home loan you qualify for."
-        icon: fas fa-calculator
-        link: 
-          url: /affordability-calculator
-          text: "Calculate"
-      - title: "Repayment Calculator"
-        desc: "Calculate your monthly bond repayments."
-        icon: fas fa-calculator   
-        link:
-          url: /bond-calculator
-          text: "Calculate"
-      - title: "Transfer Cost Calculator"
-        desc: "Calculate your registration and transfer costs."
-        icon: fas fa-calculator   
-        link:
-          url: /transfer-cost-calculator
-          text: "Calculate"
-
+  title: "Home Loan Calculators"
+  text: "Use our Home loan Calculators to work out the size of home loan you are likely to qualify for and what your bond repayments will be."
+  section: calculators
+  list:
+    - title: "Bond Calculator"
+      desc: "Calculate the home loan you qualify for."
+      icon: fas fa-calculator
+      link:
+        url: /affordability-calculator
+        text: "Calculate"
+    - title: "Repayment Calculator"
+      desc: "Calculate your monthly bond repayments."
+      icon: fas fa-calculator
+      link:
+        url: /bond-calculator
+        text: "Calculate"
+    - title: "Transfer Cost Calculator"
+      desc: "Calculate your registration and transfer costs."
+      icon: fas fa-calculator
+      link:
+        url: /transfer-cost-calculator
+        text: "Calculate"
 
 more-calculators:
-    title: "More Calculators"
-    text: ""
-    section: more-calculators
-    list:
-      - title: "Deposit Savings Calculator"
-        desc: "Calculate how much you need to save for your deposit."
-        icon: fas fa-calculator   
-        link:
-          url: /deposit-savings-calculator
-          text: "Calculate"
-      - title: "Amortisation Calculator"
-        desc: "Calculate how your repayment is structured."
-        icon: fas fa-calculator   
-        link:
-          url: /amortisation-calculator
-          text: "Calculate"
+  title: "More Calculators"
+  text: ""
+  section: more-calculators
+  list:
+    - title: "Deposit Savings Calculator"
+      desc: "Calculate how much you need to save for your deposit."
+      icon: fas fa-calculator
+      link:
+        url: /deposit-savings-calculator
+        text: "Calculate"
+    - title: "Amortisation Calculator"
+      desc: "Calculate how your repayment is structured."
+      icon: fas fa-calculator
+      link:
+        url: /amortisation-calculator
+        text: "Calculate"
 
 textblock:
-    title: "Why evo The Midlands"
-    text: "Home loans are our business, and we focus is to get your bond approved."
-    footer: "Our service is completely FREE, with no obligation."
-    section: textblock
-    list:
-      - title: "I help you complete one application, which I submit to all the banks."
-        image: "fa-university"
-      - title: "I apply to the banks, including your own bank, to get quotes."
-        image: "fa-file-invoice-dollar"
-      - title: "You can compare the quotes from each bank."
-        image: "fa-balance-scale"
-      - title: "I negotiate the best interest rates and deal on your behalf."
-        image: "fa-comments-dollar"
-      - title: "I can help you in securing a zero deposit bond if required."
-        image: "fa-user-shield"
+  title: "Why evo The Midlands"
+  text: "Home loans are our business, and we focus is to get your bond approved."
+  footer: "Our service is completely FREE, with no obligation."
+  section: textblock
+  list:
+  - title: "One application submitted to multiple banks."
+    image: "fa-check-square"
+  - title: "Access the quotes from all relevant banks, including your own."
+    image: "fa-check-square"
+  - title: "Easily compare quotes from each bank to make the best personal decisions."
+    image: "fa-check-square"
+  - title: "Let our team negotiate the best rates and deals on your behalf."
+    image: "fa-check-square"
+  - title: "Let us support you in securing a zero deposit bond if needed."
+    image: "fa-check-square"
 
 portfolio:
-    title: "Other Services"
-    text: "Some of our work"
-    section: portfolio
-    closebutton: "Close"
-    
+  title: "Other Services"
+  text: "Some of our work"
+  section: portfolio
+  closebutton: "Close"
+
 about:
-    title: "About Us"
-    text2: "I have 23 years banking experience of which 10 years are home loans experience.  I also have 8 years of bond origination experience. "
-    
+  title: "About Us"
+  text2: "I have 23 years banking experience of which 10 years are home loans experience.  I also have 8 years of bond origination experience. "
+
 clients:
-    title: Bank Partners
-    section: clients
-    max-height: 120px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "ABSA"
-        url: https://www.absa.co.za
-        logo: assets/img/clients/absa-bw.png
-      - title: "FNB"
-        url: https://www.fnb.co.za/
-        logo: assets/img/clients/fnb-bw.png
-      - title: "Investec"
-        url: https://www.investec.co.za/
-        logo: assets/img/clients/investec-bw.png
-      - title: "Ithala Bank"
-        url: http://www.ithala.co.za/
-        logo: assets/img/clients/ithala-bank.png
-      - title: "Rand Merchant Bank"
-        url: https://www.rmb.co.za
-        logo: assets/img/clients/rmb-img.png
-      - title: "Nedbank"
-        url: https://www.nedbank.co.za
-        logo: assets/img/clients/nedbank-bw.png
-      - title: "Standard Bank"
-        url: https://www.standardbank.co.za/
-        logo: assets/img/clients/SBSA-bw.png
-    
+  title: Bank Partners
+  section: clients
+  max-height: 120px
+  horizontal-scrolling: "" #"yes/no"
+  list:
+    - title: "ABSA"
+      url: https://www.absa.co.za
+      logo: assets/img/clients/absa-bw.png
+    - title: "FNB"
+      url: https://www.fnb.co.za/
+      logo: assets/img/clients/fnb-bw-n.png
+    - title: "Investec"
+      url: https://www.investec.co.za/
+      logo: assets/img/clients/investec.png
+    - title: "Ithala Bank"
+      url: http://www.ithala.co.za/
+      logo: assets/img/clients/ithala-bank.png
+    - title: "Rand Merchant Bank"
+      url: https://www.rmb.co.za
+      logo: assets/img/clients/rmb-img-n.png
+    - title: "Nedbank"
+      url: https://www.nedbank.co.za
+      logo: assets/img/clients/nedbank-bw.png
+    - title: "Standard Bank"
+      url: https://www.standardbank.co.za/
+      logo: assets/img/clients/SBSA-bw.png
+
 team:
-    title: "THE TEAM"
-    # text: "Lorem ipsum dolor sit amet consectetur."
-    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    contact: 
-    people:
-      - name: ""
-        role: ""
-        image: assets/img/team/
-        social:
-          - url: 
-            icon: 
-          - url:
-            icon: 
-          - url: 
-            icon: 
-          - url: 
-            icon: 
-      
+  title: "THE TEAM"
+  # text: "Lorem ipsum dolor sit amet consectetur."
+  # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  section: team
+  contact:
+  people:
+    - name: ""
+      role: ""
+      image: assets/img/team/
+      social:
+        - url:
+          icon:
+        - url:
+          icon:
+        - url:
+          icon:
+        - url:
+          icon:
+
 testimonials:
-    title: "TESTIMONIALS"
-    text: "What Others Say About Me"
-    section: testimonials
-    people:
-      - name: "Name S. xxx"
-        testimony: "In my recent dealings with xxx, I can highly recommend them as they are  highly effective and trustworthy. Always professional and very quick to react and pursues the service till the end. Keeping us informed and updated constantly. She has an excellent knowledge of what she does and also the market out there and what is to offer to her clients. I will do business with her again anytime in future. Thanks evo The Bond Studio xxx and keep up this exceptional business ethic."
-
-      - name: "Name S. xxx"
-        testimony: "Baie dankie vir jou uitstekende diens! Jy het die berg papierwerk soos n molshopie laat lyk. Dankie vir die gereelde terugvoering en dat jy alles so mooi verduidelik het, ons verstaan nie altyd al die terme nie! Jy het die hele proses baie vergemaklik en alles binne 3 weke afgehandel. Ons is baie dankbaar vir jou en dat jy so lekker met die banke gebargain het vir ons! Weereens baie dankie!"
-
-      - name: "Name S. xxx"
-        testimony: "Thank you, evo The Bond Studio xxx, for your dedication and professional help and advice given. You have most definitely increased my buying power and helped me to have an impressive credit report. I look forward to contacting you in the near future, again. I will definitely pass your details on to friends and family. ☆☆☆☆☆"
-
-        
+  title: "TESTIMONIALS"
+  text: "What Others Say About Me"
+  section: testimonials
+  people:
+    - name: "Name S. xxx"
+      testimony: "In my recent dealings with xxx, I can highly recommend them as they are  highly effective and trustworthy. Always professional and very quick to react and pursues the service till the end. Keeping us informed and updated constantly. She has an excellent knowledge of what she does and also the market out there and what is to offer to her clients. I will do business with her again anytime in future. Thanks evo The Bond Studio xxx and keep up this exceptional business ethic."
 
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: team
-    
+  title: "Contact Us"
+  text: "Lorem ipsum or call 123456789"
+  section: team
+
 footer:
-    legal: "Powered by evo Home Loans"
-    social:
-      # - url: https://twitter.com
-      #   icon: "fab fa-twitter"  
-      # - url: https://www.linkedin.com/in/sue-ann-weber-11821337
-      # icon: "fab fa-facebook-f"
-      # - url: https://linkedin.com
-      #   icon: "fab fa-linkedin-in"
-      # - url: https://github.com/raviriley/agency-jekyll-theme
-      #   icon: "fab fa-github"
-      # - url: https://instagram.com
-      #   icon: "fab fa-instagram"
-
-
+  legal: "Powered by evo Home Loans"
+  social:
+    # - url: https://twitter.com
+    #   icon: "fab fa-twitter"
+    # - url: https://www.linkedin.com/in/sue-ann-weber-11821337
+    # icon: "fab fa-facebook-f"
+    # - url: https://linkedin.com
+    #   icon: "fab fa-linkedin-in"
+    # - url: https://github.com/raviriley/agency-jekyll-theme
+    #   icon: "fab fa-github"
+    # - url: https://instagram.com
+    #   icon: "fab fa-instagram"
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

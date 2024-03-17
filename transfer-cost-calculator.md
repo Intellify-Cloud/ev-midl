@@ -10,4 +10,3 @@ background: white
         title="Transfer Cost Calculator"></iframe>
 </div>
 
-{% include team.html %}

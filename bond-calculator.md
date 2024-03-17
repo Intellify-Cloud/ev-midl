@@ -12,5 +12,5 @@ background: white
         title="Bond Calculator"></iframe>
 </div>
 
-{% include team.html %}
+
 
