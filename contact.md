@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bond Squad
+title: evo Midlands
 background: gray
 ---
 
