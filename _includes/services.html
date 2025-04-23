@@ -1,5 +1,5 @@
 <!-- Services -->
-  <section class="page-section" id="{{ site.data.sitetext.services.section | default: "services" }}">
+  <section class="bg-light page-section py-5" id="{{ site.data.sitetext.services.section | default: "services" }}">
     <div class="container">
 	
       <div class="row">
@@ -14,12 +14,13 @@
       </div>
 	  
       <div class="card-deck services">
+        
 	  {% for service in site.data.sitetext.services.list %}
         <div class="card">
           <div class="card-body text-center">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+            <span class="fa-stack fa-3x">
+              <i class="fas fa-circle fa-stack-2x "></i>
+              <i class="{{ service.icon | default: "" }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="card-title service-heading">{{ service.title | markdownify }}</h4>
             {% if service.desc %}
@@ -28,7 +29,7 @@
           </div>
           {% if service.link %}
           <div class="card-footer text-center">
-            <a href="{{ service.link.url }}" class="btn btn-primary" role="button">{{ service.link.text }}</a>
+            <a href="{{ service.link.url }}" class="btn btn-outline-primary btn-xl text-uppercase shadow" >{{ service.link.text }}</a>
           </div>
           {% endif %}
         </div>

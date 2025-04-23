@@ -5,6 +5,7 @@
         <div class="col-md-4">
           <span class="copyright">Copyright &copy; {{ site.company }} {{ 'now' | date: "%Y" }}</span>
         </div>
+        
 		<!-- Social Media -->
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
@@ -27,7 +28,7 @@
         <div class="col-md-4">
           <ul class="list-inline quicklinks">
             <li class="list-inline-item">
-              <a href="https://www.evogroup.co.za" target="_blank">{{ site.data.sitetext.footer.legal | default: "" }}</a>
+              <a href="https://evohomeloans.co.za" target="_blank">{{ site.data.sitetext.footer.legal | default: "" }}</a>
             </li>
           </ul>
         </div>
@@ -48,4 +49,35 @@ function fixPageShort() {
 }
 </script>
 {% endif %}
+
+<!-- <div class="whatsapp">
+  <a href="https://api.whatsapp.com/send?phone=27795620507" target="_blank">    
+  <h4><i class="fab fa-whatsapp fa-2x " aria-hidden="true" ></i></h4>Chat  </a>
+</div> -->
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    xfbml            : true,
+    version          : 'v14.0'
+  });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+  attribution="install_email"
+  attribution_version="biz_inbox"
+  page_id="932125613560341">
+</div>
+
   <!-- End Footer -->

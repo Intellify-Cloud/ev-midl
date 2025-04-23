@@ -84,15 +84,15 @@ textblock:
   section: textblock
   list:
   - title: "One application submitted to multiple banks."
-    image: "fa-check-square"
+    image: "fa fa-circle"
   - title: "Access the quotes from all relevant banks, including your own."
-    image: "fa-check-square"
+    image: "fa fa-circle"
   - title: "Easily compare quotes from each bank to make the best personal decisions."
-    image: "fa-check-square"
+    image: "fa fa-circle"
   - title: "Let our team negotiate the best rates and deals on your behalf."
-    image: "fa-check-square"
+    image: "fa fa-circle"
   - title: "Let us support you in securing a zero deposit bond if needed."
-    image: "fa-check-square"
+    image: "fa fa-circle"
 
 portfolio:
   title: "Other Services"
@@ -115,7 +115,7 @@ clients:
       logo: assets/img/clients/absa-bw.png
     - title: "FNB"
       url: https://www.fnb.co.za/
-      logo: assets/img/clients/fnb-bw-n.png
+      logo: assets/img/clients/fnb-n.png
     - title: "Investec"
       url: https://www.investec.co.za/
       logo: assets/img/clients/investec.png

@@ -1,12 +1,12 @@
 baseurl: ""
 
-title      : evo The Midlands - Bond Origination & Home Loan Experts in Howick | KZN Midlands
-email      : 
-description: Contact evo Midlands from Howick, in the KwaZulu-Natal Midlands to help you with home loan. With banking and homeloan experience I am here to help you with your bond origination. 
-author     : Eben Roux / Pieter Oosthuizen
+title: Bond Squad - Bond Origination & Home Loans Experts in CT & KZN.
+email:
+description: Achieve your property dreams with Bond Squad. Founded by Hayley Craig and Lara Patterson, we secure the best home loan deals through expert bond origination.
+author: Eben Roux / Pieter Oosthuizen
 
 analytics:
-  google: G-GXL51EECEE
+  google: G-XXX
 
 collections:
   portfolio:
@@ -20,14 +20,14 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/logo.png
+  path: /assets/evo-midlands-logo.png
 
-exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+exclude: [node_modules, webpack-config.js, package.json, package-lock.json]
 
-group: evo Home Loans
+group: evo Homeloans
 
 company: evo Midlands
 
-url: www.evomidlands.co.za
+url: https://evohomeloans.co.za
 
-address: ​40 Main Road, Howick, 3290, Kwa-Zulu Natal
+address: KwaZulu-Natal, 40 Main Road, Howick, 3290
