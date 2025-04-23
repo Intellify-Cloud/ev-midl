@@ -4,6 +4,9 @@ nav:
 
   - title: "Services"
     section: services
+
+  - title: "About Us"
+    section: about
     
   - title: "Calculators"
     section: calculators
