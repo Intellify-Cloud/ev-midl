@@ -112,7 +112,7 @@ img::selection {
 .afford-calc {
   width: 100%;
   height: auto;
-  min-height: 60vh;
+  min-height: 100vh;
   max-height: unset;
   /* Unset the max-height */
 }

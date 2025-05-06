@@ -20,7 +20,7 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/evo-midlands-logo.png
+  path: /assets/img/logo/evo Home Loans Midlands.png
 
 exclude: [node_modules, webpack-config.js, package.json, package-lock.json]
 
