@@ -76,8 +76,10 @@ nav {
 @media (max-width: 1200px) {
   header.hero {
     height: 80vh;
+    background-position: center;
     .intro-heading {
       font-size: clamp(28px, 5vw, 56px);
+      
     }
   }
 }
@@ -85,7 +87,7 @@ nav {
 @media (max-width: 992px) {
   header.hero {
     height: 60vh;
-    background-position: right center;
+    background-position: center;
     .container {
       top: 70%;
     }
@@ -116,6 +118,7 @@ nav {
 @media (max-width: 576px) {
   header.hero {
     height: 50vh;
+    background-position: center;
     .container {
       top: 70%;
     }
@@ -124,7 +127,7 @@ nav {
       margin-bottom: 0.75rem;
     }
     .intro-lead-in {
-      font-size: clamp(16px, 3vw, 24px);
+      font-size: clamp(16px, 5vw, 24px);
       margin-bottom: 0.75rem;
     }
     .btn-xl {
